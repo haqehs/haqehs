@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML , CSS , JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me haqehs12@gmail.com is my gmail address
+- 📫 How to reach me haqehs12@gmail.com is my email address
 
 <!---
 haqehs/haqehs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
