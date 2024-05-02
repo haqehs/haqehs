@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haqehs
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML , CSS , JS
+- 👀 I’m interested in coding....
+- 🌱 I’m currently learning MERN Stack and Cyber Security.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haqehs12@gmail.com is my email address
 
